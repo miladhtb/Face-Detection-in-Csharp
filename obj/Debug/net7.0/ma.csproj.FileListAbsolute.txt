@@ -1,0 +1,5 @@
+C:\Users\MILAD\OneDrive\Desktop\New folder (3)\obj\Debug\net7.0\ma.csproj.AssemblyReference.cache
+C:\Users\MILAD\OneDrive\Desktop\New folder (3)\obj\Debug\net7.0\ma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILAD\OneDrive\Desktop\New folder (3)\obj\Debug\net7.0\ma.AssemblyInfoInputs.cache
+C:\Users\MILAD\OneDrive\Desktop\New folder (3)\obj\Debug\net7.0\ma.AssemblyInfo.cs
+C:\Users\MILAD\OneDrive\Desktop\New folder (3)\obj\Debug\net7.0\ma.csproj.CoreCompileInputs.cache
